@@ -1,0 +1,130 @@
+[
+  {
+    "id": "p1",
+    "name": "Wireless Bluetooth Headphones",
+    "photo_url": "https://i.ibb.co.com/Cp2tQ4Rw/7009951-3514068.jpg",
+    "description": "Noise-cancelling over-ear headphones with 30 hours of playtime.",
+    "price": 79.99,
+    "rating": 4.6
+  },
+  {
+    "id": "p2",
+    "name": "Smartphone Stand Holder",
+    "photo_url": "https://i.ibb.co.com/Cp2tQ4Rw/7009951-3514068.jpg",
+    "description": "Adjustable aluminum desk stand for phones and tablets.",
+    "price": 14.5,
+    "rating": 4.4
+  },
+  {
+    "id": "p3",
+    "name": "Gaming Mechanical Keyboard",
+    "photo_url": "https://i.ibb.co.com/Cp2tQ4Rw/7009951-3514068.jpg",
+    "description": "RGB backlit mechanical keyboard with blue switches.",
+    "price": 59,
+    "rating": 4.7
+  },
+  {
+    "id": "p4",
+    "name": "4K Action Camera",
+    "photo_url": "https://i.ibb.co.com/Cp2tQ4Rw/7009951-3514068.jpg",
+    "description": "Waterproof sports camera with wide-angle lens and accessories.",
+    "price": 99.99,
+    "rating": 4.5
+  },
+  {
+    "id": "p5",
+    "name": "Portable Mini Projector",
+    "photo_url": "https://i.ibb.co.com/Cp2tQ4Rw/7009951-3514068.jpg",
+    "description": "Compact projector with HDMI input and built-in speaker.",
+    "price": 120,
+    "rating": 4.3
+  },
+  {
+    "id": "p6",
+    "name": "Stainless Steel Water Bottle",
+    "photo_url": "https://i.ibb.co.com/Cp2tQ4Rw/7009951-3514068.jpg",
+    "description": "Insulated 1L water bottle that keeps drinks hot or cold.",
+    "price": 18.9,
+    "rating": 4.8
+  },
+  {
+    "id": "p7",
+    "name": "Fitness Smartwatch",
+    "photo_url": "https://i.ibb.co.com/Cp2tQ4Rw/7009951-3514068.jpg",
+    "description": "Tracks heart rate, steps, calories, and sleep patterns.",
+    "price": 69.99,
+    "rating": 4.2
+  },
+  {
+    "id": "p8",
+    "name": "Ergonomic Office Chair",
+    "photo_url": "https://i.ibb.co.com/Cp2tQ4Rw/7009951-3514068.jpg",
+    "description": "Adjustable mesh chair with lumbar support and headrest.",
+    "price": 150,
+    "rating": 4.6
+  },
+  {
+    "id": "p9",
+    "name": "Wireless Mouse",
+    "photo_url": "https://i.ibb.co.com/Cp2tQ4Rw/7009951-3514068.jpg",
+    "description": "Rechargeable wireless mouse with silent clicks.",
+    "price": 19.99,
+    "rating": 4.4
+  },
+  {
+    "id": "p10",
+    "name": "Smart LED Light Bulb",
+    "photo_url": "https://i.ibb.co.com/Cp2tQ4Rw/7009951-3514068.jpg",
+    "description": "Wi-Fi-enabled bulb with customizable colors and brightness.",
+    "price": 12,
+    "rating": 4.3
+  },
+  {
+    "id": "p11",
+    "name": "Laptop Cooling Pad",
+    "photo_url": "https://i.ibb.co.com/Cp2tQ4Rw/7009951-3514068.jpg",
+    "description": "Cooling stand with dual fans for laptops up to 17 inches.",
+    "price": 25,
+    "rating": 4.1
+  },
+  {
+    "id": "p12",
+    "name": "Electric Kettle",
+    "photo_url": "https://i.ibb.co.com/Cp2tQ4Rw/7009951-3514068.jpg",
+    "description": "1.7L fast-boil electric kettle with auto shut-off.",
+    "price": 29.5,
+    "rating": 4.5
+  },
+  {
+    "id": "p13",
+    "name": "Digital Drawing Tablet",
+    "photo_url": "https://i.ibb.co.com/Cp2tQ4Rw/7009951-3514068.jpg",
+    "description": "Graphics tablet with pressure-sensitive stylus for artists.",
+    "price": 85,
+    "rating": 4.6
+  },
+  {
+    "id": "p14",
+    "name": "Noise-Cancelling Earbuds",
+    "photo_url": "https://i.ibb.co.com/Cp2tQ4Rw/7009951-3514068.jpg",
+    "description": "True wireless earbuds with long battery life and deep bass.",
+    "price": 49.9,
+    "rating": 4.2
+  },
+  {
+    "id": "p15",
+    "name": "Adjustable Dumbbells Set",
+    "photo_url": "https://i.ibb.co.com/Cp2tQ4Rw/7009951-3514068.jpg",
+    "description": "Pair of adjustable dumbbells with weights ranging 5–50 lbs.",
+    "price": 199.99,
+    "rating": 4.7
+  },
+  {
+    "name": "placeholder",
+    "photo_url": "aaaaaaa",
+    "description": "aaaaaaaaaaaaaaaaaa",
+    "price": 0.02,
+    "rating": 0.3,
+    "id": "p16"
+  }
+]
